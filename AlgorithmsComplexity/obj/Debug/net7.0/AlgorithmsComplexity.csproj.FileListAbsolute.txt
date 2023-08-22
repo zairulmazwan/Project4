@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/bin/Debug/net7.0/AlgorithmsComplexity
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/bin/Debug/net7.0/AlgorithmsComplexity.deps.json
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/bin/Debug/net7.0/AlgorithmsComplexity.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/bin/Debug/net7.0/AlgorithmsComplexity.dll
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/bin/Debug/net7.0/AlgorithmsComplexity.pdb
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.dll
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/refint/AlgorithmsComplexity.dll
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.pdb
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/AlgorithmsComplexity.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/Project4/AlgorithmsComplexity/obj/Debug/net7.0/ref/AlgorithmsComplexity.dll
